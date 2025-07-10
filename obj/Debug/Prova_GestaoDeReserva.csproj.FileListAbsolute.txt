@@ -1,0 +1,8 @@
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\bin\Debug\Prova_GestaoDeReserva.exe.config
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\bin\Debug\Prova_GestaoDeReserva.exe
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\bin\Debug\Prova_GestaoDeReserva.pdb
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\obj\Debug\Prova_GestaoDeReserva.csproj.AssemblyReference.cache
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\obj\Debug\Prova_GestaoDeReserva.csproj.CoreCompileInputs.cache
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\obj\Debug\Prova_GestaoDeReserva.exe
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\obj\Debug\Prova_GestaoDeReserva.pdb
+C:\Users\2024102060010\Desktop\Prova_GestaoDeReserva\obj\Debug\Prova_GestaoDeReserva.exe.config
